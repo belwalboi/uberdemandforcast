@@ -235,7 +235,7 @@ with c1:
 with c2:
     st.markdown("""
     <h1 style='margin:0;font-size:2rem;font-weight:800'>Uber Demand Forecasting</h1>
-    <p style='margin:0;color:#888;font-size:0.9rem'>Spatio-temporal demand prediction · NYC · KIIT-DU</p>
+    <p style='margin:0;color:#888;font-size:0.9rem'>2305702 · Harshit Belwal · CSE 47</p>
     """, unsafe_allow_html=True)
 st.markdown("---")
 
